@@ -18,4 +18,4 @@ In addition to coding, I frequently use **LaTeX** for writing academic papers, p
 
 ## GitHub Activity Overview
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spicajp&layout=compact)](https://github.com/spicajp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spicajp&layout=compact&theme=tokyonight)](https://github.com/spicajp/github-readme-stats)
