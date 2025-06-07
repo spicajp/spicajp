@@ -14,7 +14,7 @@ Additionally, I am actively involved in **deep learning-based image processing**
 I am skilled in a variety of programming languages, including **C**, **C++**, and **Python**, and I frequently write **shell scripts**.
 Currently, I am also exploring Rust, Ruby, expl3, and HTML/CSS to expand my skill set.
 
-In addition to coding, I frequently use $\mathrm{\LaTeX}$ for writing academic papers, preparing reports, and creating educational materials, slides, and posters.
+In addition to coding, I frequently use **LaTeX** for writing academic papers, preparing reports, and creating educational materials, slides, and posters.
 
 ## GitHub Activity Overview
 
